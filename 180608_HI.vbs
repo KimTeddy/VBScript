@@ -59,9 +59,9 @@ wscript.sleep 400
 wshshell.sendkeys "{ENTER}"
 wscript.sleep 900
 
-Select Case MsgBox("¸Ş¸ğÀåÀ» ´İÀ»±î¿ä?", vbYesNo, "¸Ş¸ğÀå")
+Select Case MsgBox("ë©”ëª¨ì¥ì„ ë‹«ì„ê¹Œìš”?", vbYesNo, "ë©”ëª¨ì¥")
 Case vbYes
 wshshell.sendkeys "%{F4}"
 Case vbNo
-MsgBox "±×·³ ¾Ë¾Æ¼­ ´İÀ¸½Ã±æ..."
+MsgBox "ê·¸ëŸ¼ ì•Œì•„ì„œ ë‹«ìœ¼ì‹œê¸¸..."
 End Select
