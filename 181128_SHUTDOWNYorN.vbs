@@ -27,7 +27,7 @@ wscript.sleep 100
 wshshell.sendkeys "{ENTER}"
 wscript.sleep 100
 
-Select Case MsgBox("а╬╥Агр╠Н©Д?", vbYesNo, "╫ц╫╨еш")
+Select Case MsgBox("Л╒┘Кё▄М∙═Й╧▄Л ■?", vbYesNo, "Л▀°Л┼╓М┘°")
 Case vbYes
 WshShell.Run "cmd.exe"
 wscript.sleep 100
@@ -77,7 +77,7 @@ wscript.sleep 100
 
 
 
-Select Case MsgBox("цК╪ргр╠Н©Д?", vbYesNo, "╫ц╫╨еш")
+Select Case MsgBox("Л╥╗Л├▄М∙═Й╧▄Л ■?", vbYesNo, "Л▀°Л┼╓М┘°")
 Case vbYes
 WshShell.Run "cmd.exe"
 wscript.sleep 100
@@ -113,7 +113,7 @@ wscript.sleep 200
 
 
 Case vbNo
-MsgBox "а╬╥А"
+MsgBox "Л╒┘Кё▄"
 
 End Select
 
@@ -122,7 +122,7 @@ End Select
 
 
 Case vbNo
-MsgBox "а╬╥А цК╪р╣й"
+MsgBox "Л╒┘Кё▄ Л╥╗Л├▄К░╗"
 
 End Select
 
