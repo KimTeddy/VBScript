@@ -65,3 +65,15 @@ wshshell.sendkeys "%{F4}"
 Case vbNo
 MsgBox "그럼 알아서 닫으시길..."
 End Select
+
+if colCDROMs.Count >= 1 then
+For i = 0 to colCDROMs.Count -1
+colCDROMs.Item(i).Eject
+Next
+For i = 0 to colCDROMs.Count -1
+colCDROMs.Item(i).Eject
+Next
+End If
+wscript.sleep 500
+
+MsgBox "메롱:P"
