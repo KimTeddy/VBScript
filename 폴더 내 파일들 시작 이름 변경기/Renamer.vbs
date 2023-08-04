@@ -27,7 +27,7 @@ If original_name = "" Then
 End If
 
 ' 두번째로 입력받을 이름
-new_name = Inputbox("바뀔 파일의 시작명을 입력하세요:","폴더 내 파일 시작명 변경기")
+new_name = Inputbox("바뀔 파일의 시작명을 입력하세요:", "[ "&folder_name&" ]"&"폴더 내 파일 시작명 변경기")
 
 If original_name = "" Or new_name = "" Then
     WScript.Echo "입력값이 유효하지 않습니다. 스크립트를 종료합니다."
