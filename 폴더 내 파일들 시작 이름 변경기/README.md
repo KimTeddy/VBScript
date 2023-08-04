@@ -8,7 +8,7 @@
 ![image](https://github.com/KimTeddy/VBScript/assets/68770209/ddea5199-5ee8-4714-9182-d9667cecde45)
 - 바뀔 파일 시작 이름을 입력한다.
 
-![image](https://github.com/KimTeddy/VBScript/assets/68770209/0a366063-c98f-4982-a6d7-f14b122ee14a)
+![image](https://github.com/KimTeddy/VBScript/assets/68770209/5fb41360-f918-428e-96e5-6ea050077983)
 - 이름을 변경할 파일 목록을 확인한다.
 
 ![image](https://github.com/KimTeddy/VBScript/assets/68770209/1270bca7-f4c2-4d63-a261-31c1dd18b627)
