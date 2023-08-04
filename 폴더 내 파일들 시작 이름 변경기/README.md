@@ -12,7 +12,7 @@
 - 이름을 변경할 파일 목록을 확인한다.
 
 ![image](https://github.com/KimTeddy/VBScript/assets/68770209/1270bca7-f4c2-4d63-a261-31c1dd18b627)
-- 예를 누르면 파일 이름들이 설정한대로 바뀐다.
+- 예를 누르면 파일 이름들이 설정한 대로 바뀐다.
 
 ![image](https://github.com/KimTeddy/VBScript/assets/68770209/05c42104-389a-488d-a779-a1dc8123300b)
 - 2022에서 2023으로 변경된 파일 이름들
